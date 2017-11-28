@@ -1,0 +1,8 @@
+.dog {
+	background-image: url("../assets/img/doge1.jpg");
+	background-size: cover;
+}
+
+.moveimg {
+	margin: 30% 0% 0% 50%;
+}
